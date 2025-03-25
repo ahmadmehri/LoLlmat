@@ -59,6 +59,9 @@ Default: 0
 After adjusting parameters, click Save All to apply changes
 Adjust settings based on your needs for better performance and response quality
 If you have any questions, feel free to reach out! Happy chatting! 😊
+
+https://www.youtube.com/@rockbench
+
 https://www.linkedin.com/in/seyedahmad-mehrishal/
 
 [rockbench.ir
