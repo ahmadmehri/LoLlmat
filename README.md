@@ -3,6 +3,8 @@ LoLlama: Local LLM Communicator - Your Gateway to Local Open-Source AI Models
 
 **Help Guide for Local Ollama Chat Settings**
 
+Local Ollama Comunication App for windows
+
 Welcome to the Local Ollama Chat help page! Here, you'll find explanations for all adjustable parameters in the settings menu.
 
 1. Connection Settings
