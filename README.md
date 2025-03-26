@@ -8,6 +8,8 @@
 
 ![image](https://github.com/user-attachments/assets/7626f926-a9d5-4ceb-8dfa-e354864afb0e)
 
+![image](https://github.com/user-attachments/assets/62c9a4d6-03d9-4db1-85cf-bd13bb392e0a)
+
 
 Local Ollama Comunication App for windows
 
