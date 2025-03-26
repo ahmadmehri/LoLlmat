@@ -1,6 +1,10 @@
 **LoLlama: Local LLM Communicator - Your Gateway to Local Open-Source AI Models**
 ![LocalOllama](https://github.com/user-attachments/assets/0ce6f5dc-8fb9-46fb-9a5c-c0a066ae35af)
 
+Local Ollama Comunication App for windows
+
+Welcome to the Local Ollama Chat help page! Here, you'll find explanations for all adjustable parameters in the settings menu.
+
 ![image](https://github.com/user-attachments/assets/c672101a-c541-42c6-994a-0b6aa7609889)
 
 
@@ -11,9 +15,6 @@
 ![image](https://github.com/user-attachments/assets/62c9a4d6-03d9-4db1-85cf-bd13bb392e0a)
 
 
-Local Ollama Comunication App for windows
-
-Welcome to the Local Ollama Chat help page! Here, you'll find explanations for all adjustable parameters in the settings menu.
 
 1. Connection Settings
 API URL
