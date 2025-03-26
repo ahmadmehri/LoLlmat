@@ -1,7 +1,13 @@
 **LoLlama: Local LLM Communicator - Your Gateway to Local Open-Source AI Models**
 ![LocalOllama](https://github.com/user-attachments/assets/0ce6f5dc-8fb9-46fb-9a5c-c0a066ae35af)
 
+![image](https://github.com/user-attachments/assets/c672101a-c541-42c6-994a-0b6aa7609889)
+
+
 **Help Guide for Local Ollama Chat Settings**
+
+![image](https://github.com/user-attachments/assets/7626f926-a9d5-4ceb-8dfa-e354864afb0e)
+
 
 Local Ollama Comunication App for windows
 
