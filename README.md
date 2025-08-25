@@ -1,9 +1,8 @@
 Matlab Ollama LLMs
 
 **LoLlama: Local LLM Communicator - Your Gateway to Local Open-Source AI Models**
-<img width="1024" height="1536" alt="ChatGPT Image Aug 25, 2025, 04_23_45 PM" src="https://github.com/user-attachments/assets/ec8fb2af-8a2e-46a0-99dd-378a776c970f" />
 
-![LocalOllama](https://github.com/user-attachments/assets/0ce6f5dc-8fb9-46fb-9a5c-c0a066ae35af)
+<img width="512" height="768" alt="ChatGPT Image Aug 25, 2025, 04_23_45 PM" src="https://github.com/user-attachments/assets/ec8fb2af-8a2e-46a0-99dd-378a776c970f" />
 
 Local Ollama Comunication App for windows
 
