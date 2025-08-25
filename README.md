@@ -12,13 +12,23 @@ Welcome to the Local Ollama Chat help page! Here, you'll find explanations for a
 
 <img width="511" height="443" alt="image" src="https://github.com/user-attachments/assets/ac6e58d6-86ed-4b56-84f3-6eaf74955be5" />
 
-**Help Guide for Local Ollama Chat Settings**
+**Local RAG-LLM**
+<img width="48" height="48" alt="icon_48" src="https://github.com/user-attachments/assets/aa8f004e-c409-40ec-99e2-b6a1aab898f7" />
+
+![FlowChart](https://github.com/user-attachments/assets/c425223b-7f7b-422e-96a5-f782796b8903)
+
 
 ![image](https://github.com/user-attachments/assets/7626f926-a9d5-4ceb-8dfa-e354864afb0e)
 
 ![image](https://github.com/user-attachments/assets/62c9a4d6-03d9-4db1-85cf-bd13bb392e0a)
 
+![Screenshot 2025-08-25 174647](https://github.com/user-attachments/assets/545230b3-8594-4afd-baa9-0d2416f93f3b)
 
+![Screenshot 2025-08-25 174815](https://github.com/user-attachments/assets/f17e95df-5fb3-477e-897e-a6467ac6e549)
+
+![Screenshot 2025-08-25 174858](https://github.com/user-attachments/assets/ef0ce6e0-e696-4b60-8381-e43687c502ee)
+
+**Help Guide for Local Ollama Chat Settings**
 
 1. Connection Settings
 API URL
